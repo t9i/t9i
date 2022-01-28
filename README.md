@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello there👋
+-----
 
-<!--
-**t9i/t9i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = "center">
+<img src="https://cdn.discordapp.com/attachments/931717142091546668/931717428948402216/pir2.gif">
+</p>
 
-Here are some ideas to get you started:
+------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://discord.c99.nl/widget/theme-4/804388817829363742.png" alt="t9i"/>
+     </a>
